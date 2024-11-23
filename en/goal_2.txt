@@ -1,0 +1,14 @@
+<em>part two</em><br>
+<br>
+Tear down the wall. Therefore you can use the "remove tracks" tool.
+You will have to pay a monthly tax of {soli_rate}% from your earned
+money. If the revolution is later than {revolution_date} the tax
+increase 1% for each month delay.<br>
+<br>
+Build up to the mark <a href="(529,490)">Simutrans headquarter</a> your
+big companies Headquarter. Make a reconstruction of your passangere network.
+Close the two old Berlin city airports and support the airports in
+<a href="(510,1014)">Rome</a> and <a href="(510,9)">Oslo</a> with
+the <a href="(803,899)">new Berlin airport</a>. Also provied
+service - with no unhappy passangers in twelve month - at:
+<br>{places}<br>

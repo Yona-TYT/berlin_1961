@@ -1,0 +1,6 @@
+<em>Teil 3</em><br>
+<br>
+Die Bürger von Berlin möchten ihre Freiheit noch mehr genießen und nutzen.
+Bieten Sie den Bürgern von {target_three_city} einen sehr guten
+Personen und Post Service von {target_three}% für ein ganzes
+Kalenderjahr an.<br>

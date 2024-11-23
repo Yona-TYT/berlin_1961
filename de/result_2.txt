@@ -1,0 +1,8 @@
+<em>Teil 2</em><br>
+<br>
+Sie haben {wall_delete}% der wichtigsten Mauerbereiche bereist abgerissen.
+Ihr Steuersatz ist {soli_rate}% und letzten Monat haben Sie {payed_tax}
+Steuern bezahlt. {hq_text} Ihr Transport Service an:<br>
+<br>{places}<br>
+Dieser Teil des Szenario ist zu {result}% komplett.<br>
+<br>

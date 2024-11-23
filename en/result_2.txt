@@ -1,0 +1,8 @@
+<em>part two</em><br>
+<br>
+You teared down {wall_delete}% of the importend parts of the wall.
+The tax rate is {soli_rate}% and you payed for last month {payed_tax}.
+{hq_text} Your public service at:<br>
+<br>{places}<br>
+This part of the scenario is up to {result}% complete.<br>
+<br>

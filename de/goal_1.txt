@@ -1,0 +1,20 @@
+<em>Teil 1</em><br>
+<br>
+Sie benötigen {target_one} demonstrierende Bürger um die
+Mauer einreißen zu können. Um diese Bürger zu gewinnen
+stellen sie den Service an folgenden Haltestellen:<br>
+<br>{zonen}<br>
+Wenn Sie das minimum der abgefahrenden Passagiere je Monat
+erreicht haben, werden alle unzufriedenen Passagiere zu den
+demonstrierende Bürger hinzugezählt. Um noch mehr Unterstützung
+zu bekommen, können Sie auch an der Westseite des
+<a href="(546,512)">Brandenburger Tor</a> (546,512,-2) eine
+Haltestelle einrichten. Oberhalb von {brand_happy} zufriedenen
+Passagieren wird jeder weitere zufriedner Passagier zu
+den Demonstationen als Unterstützer aus dem Westen hinzugezählt.<br>
+<br>
+Sollte die notwendige Menge an Demonstranten vor {revolution_date} nicht
+erreicht sein, so darf man sich weiter um Demonstranten bemühen. Die
+Revolution wird dann später beginnen. Seien Sie aber nicht zu spät mit
+der Revolution, denn dies könnte erhebliche Probleme im zweiten Teil
+des Szenario mit sich bringen.<br>

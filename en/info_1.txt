@@ -1,0 +1,45 @@
+<em>part one</em><br>
+<br>
+We write August 13, 1961. The government of East-Berlin built last night
+a wall around West-Berlin to protect its own people. Don't even think
+about crossing the border by land, sea or air! Caution, the NVA border
+troops are armed and will shoot immediately.<br>
+<br>
+In prominent areas, the East-Berlin goverment has espand the wall very wide.
+There are <a href="goal">border stations</a> for the movement between
+East- and West-Berlin which allow only buses. An extension of this
+stations is not allowed, however a upgrade of the stations is possible
+but not recommended.<br>
+<br>
+At the site <a href="(557,490)">Bahnhof Friedrichstrasse</a> a
+train-station with border traffic is allowed. You find a eleveted track
+over the border to reach this station. Also a underground double track
+line crossings the border for a North-South axis to West-Berlin.
+All western trains may only hold
+at <a href="(557,490)">Bahnhof Friedrichstrasse</a>.<br>
+<br>
+International political pressure effected that there are tracks lines
+from Hamburg and Frankfurt placed to the city limits of West-Berlin.
+These are available for free.<br>
+<br>
+For air travel there are in West-Berlin, unfortunately very bad
+obtained airports Tegel and Tempelhof available. In East-Berlin the
+local air force supports one military airport, which should be
+used carfully.<br>
+<br>
+Feel free to built up a network in East- and/or West-Berlin.<br>
+<br>
+<em>start year:</em> {startyear}<br>
+<em>money:</em> {startcash}<br>
+<em>inhabitants:</em> {citizen}<br>
+<em>Scities:</em> {towns}<br>
+<em>factories:</em> {factories}<br>
+<br>
+<em>more informations</em><br>
+<br>
+Get more informations about the history of the Berlin Wall
+and the puplic transportation networks in Berlin inside the
+PDF file in the scenario folder. Or search in the web.<br>
+<br>
+This scenario based on real history, but has no claim
+to complete correctness!<br>

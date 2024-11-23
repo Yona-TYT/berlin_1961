@@ -1,0 +1,4 @@
+<em>Teil 3</em><br>
+Erreiche eine Personen und Post Service-Rate von {target_three}% für
+ein ganzes Jahr in der Stadt {target_three_city}.
+<br>

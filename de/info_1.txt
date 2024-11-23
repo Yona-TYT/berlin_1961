@@ -1,0 +1,46 @@
+<em>Teil 1</em><br>
+<br>
+Wir schreiben den 13. August 1961. Die Regierung der DDR hat letzte
+Nacht eine Mauer um West-Berlin bauen lassen, angeblich um ihre
+eigenen Bürger zu schützen. Das überqueren der Grenzanlagen ist
+zu Lande, in der Luft oder auf dem Wasser verboten! Achtung, die
+NVA Grenztruppen machen gebrauch von der Schusswaffe!<br>
+<br>
+In besonders wichtigen Bereichen ist die Mauer auf Anweisung der
+Regierung der DDR besonders breit ausgebaut. Für den Grenzverkehr
+gibt es <a href="goal">Grenzübergänge</a> die nur mit Bussen angefahren
+werden können. Eine Erweiterung der Haltestellen ist nicht erlaubt, eine
+Erneuerung hingegen ist möglich, wenn auch nicht empfohlen.<br>
+<br>
+An der Markierung <a href="(557,490)">Bahnhof Friedrichstrasse</a> ist
+eine Bahnstation mit Grenzverkehr erlaubt. Dafür finden Sie bereits eine
+Hochbahnstrecke und eine U-Bahn Strecke über/unter dem Grenzbereich. Alle
+Züge aus West-Berlin dürfen nur an der Haltestelle
+<a href="(557,490)">Bahnhof Friedrichstrasse</a> in Ost-Berlin halten.<br>
+<br>
+Internationaler politischer Druck hat dafür gesorgt, das zwei Bahntrassen
+von der Deutsch-Deutschen Grenze bis zur Stadtgrenze von West-Berlin zur
+freien Verfügung stehen.<br>
+<br>
+Für den Luftferkehr sind in West-Berlin zwei Standorte Tegel und Tempelhof
+vorgesehen. Für einen sinnvollen Betrieb muss an diesen Orten noch einiges
+gebaut werden. In Ost-Berlin unterhält die NVA einen Militärflugplatz, der
+im geringen Umfang benutzt werden kann.<br>
+<br>
+Es ist Ihnen freigestellt in Ost- und/oder West-Berlin ein
+Transportnetzwerk nach ihren Ideen aufzubauen.<br>
+<br>
+<em>Startjahr:</em> {startyear}<br>
+<em>Geld:</em> {startcash}<br>
+<em>Einwohner:</em> {citizen}<br>
+<em>Städte:</em> {towns}<br>
+<em>Fabriken:</em> {factories}<br>
+<br>
+<em>Weitere Informationen</em><br>
+<br>
+Informationen zu der Geschichte der Berliner Mauer und Karten
+des ÖPNV in und um Berlin finden Sie in der PDF-Datei im
+Szenario Ordner. Oder suchen sie einfach im Internet.<br>
+<br>
+Dieses Szenario basiert auf wahren Ereignissen der Berliner Geschichte,
+es stellt aber keinen Anspruch auf Vollständigkeit und Richtigkeit!<br>

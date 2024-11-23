@@ -1,0 +1,15 @@
+<em>Teil 2</em><br>
+<br>
+Die Mauer muß weg! Sie können dafür auch das "Eisenbahnstrecken entfernen"
+Werkzeug benutzen. Es ist eine monatliche Steuer von {soli_rate}% auf
+Ihre gesamten Einnahmen zu zahlen. Falls die Revolution später als
+{revolution_date} war, so steigt die Steuer jeden Monat um ein Prozent an.<br>
+<br>
+Bauen Sie an der Markierung <a href="(529,490)">Simutrans headquarter</a>
+ihre große Hauptverwaltung. Überarbeiten sie das gesamte Personen
+Transportnetzwerk und schließen sie die beiden alten Sadtflughäfen in Berlin.
+Die Flughäfen von <a href="(510,1014)">Rom</a> und <a href="(510,9)">Oslo</a>
+verbinden sie mit dem <a href="(803,899)">neuen Berliner Flughafen</a>.
+Desweiteren erreiche einen Service, mit keinen unzufriedenen Passagieren
+über zwölf Monate, an folgenden Haltestellen:
+<br>{places}<br>

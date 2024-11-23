@@ -1,0 +1,10 @@
+<em>Teil 2</em><br>
+<br>
+<em>·</em> Nach der Revolution haben Sie monatlich eine Steuer bis zum
+Ende des zweiten Teils zu zahlen.<br>
+<em>·</em> Sie können neue Stadtgebäude bauen (Taste "&").<br>
+<em>·</em> In der Nähe der <a href="(578,442)">Bormholmer Strasse</a> wird
+das Museum für die Mauergeschichte errichtet. Die Fläche von
+(576,440) bis (579,443) bleibt für die Nachwelt geschützt.<br>
+<em>·</em> An den Haltestellen der Serviceliste dürfen über
+wölf Monate keine unglücklichen Passagiere vorkommen.<br>

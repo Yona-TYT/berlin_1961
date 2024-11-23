@@ -1,0 +1,16 @@
+<em>part one</em><br>
+<br>
+You need {target_one} citizen as supporters to tear down the wall.
+Therefor provid service at:<br>
+<br>{zonen}<br>
+If you reach the minimum of departed passengers / month all
+unhappy passengers will be counted as supporters for the revolution.
+To get more supporters you can also provid service at the Westside of
+the <a href="(546,512)">Brandenburger Gate</a> (546,512,-2).
+Above the amount of {brand_happy} happy passenger each happy
+passenger will be count as a supporter.<br>
+<br>
+If you didn't reach the minimum amount before {revolution_date} you
+can go on getting more supporters, the revolution will start later.
+But, don't be to late, you will get problems in the second part
+of the scenario.<br>

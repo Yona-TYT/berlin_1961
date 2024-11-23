@@ -1,0 +1,30 @@
+<em>Teil 1</em><br>
+<br>
+Die Mauer ist offen! Sofern Sie genügend Geld haben können sie mit
+dem Abriss der Mauer beginnen. Die Straßensperren an den Grenzstationen
+sind Eigentum des Simutrans-Spielers (das sind Sie). Entfernen Sie die
+Straßensperren sofort nach der Revolution. Sie können ebenfalls den Zaun
+und die Mauer um das Gelände der <a href="(760,438)">Stasi</a> entfernen.
+Hinweis: Ein Element der Mauer/Zaun/Kontrollweg kann bis zu 100.000 $ kosten.
+Insgesamt werden mehr als 200 Millionen $ benötigt um nur die wichtigsten
+Gebiete der Mauer zu entfernen.<br>
+<br>
+Nach der großen Wiedervereinigungsfeier hat der Stadtrat bemerkt, dass
+die Stadt mehr Geld benötigt. Wer hätte es gedacht, eine neue Steuer in Höhe
+von {salestax}% auf alle Einkünfte ist die Lösung. Sollte sich die Einführung
+der Steuer verzögern, so wird diese automatisch ein wenig angehoben.<br>
+<br>
+Die Bürger von Berlin schätzen ihre neue Freiheit. Daher sollten Sie
+den Bürgern einen guten öffentlchen Nahverkehr an
+einigen <a href="goal">Punkten</a> anbieten. Dabei sollten Sie nicht
+vergessen die Teilnetze aus Ost- und West-Berlin zu einem gut laufendem
+Gesamtnetz umzubauen. Dabei muss an der Stelle
+<a href="(525,473)">Berlin HBF (future)</a> der neue Hauptbahnhof
+der Stadt entstehen.<br>
+<br>
+An der Markierung <a href="(529,490)">Simutrans headquarter</a> haben sie
+die Erlaubnis ihre große Haupverwaltung zu bauen. Da sich die neue
+deutsche Regierung entschlossen hat nach Berlin zu ziehen, dürfen Sie
+auch neue Regierungsgebäude (Taste "&") bauen. Am Potsdamer Platz können
+nach eigenem Ermäßen neue Gebäude gebaut werden. Alle neu gebauten Gebäude
+unter Denkmalschutz (einfach kaufen) stellen.<br>

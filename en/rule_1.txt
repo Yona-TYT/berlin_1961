@@ -1,0 +1,19 @@
+<em>part one</em><br>
+<br>
+A very kindly group of citizen from Berlin told you a few rules
+they have still noticed in the fast changing world:<br>
+<br>
+<em>·</em> Don't cross the wall with any new typ of way.<br>
+<em>·</em> Trains from the cities <a href="(9,9)">Hamburg</a> and
+<a href="(10,1010)">Frankfurt</a> may only be connected to West-Berlin.
+When riding the train through the border station
+<a href="(109,413)">Zone - Spandau (transit)</a> or
+<a href="(106,882)">Zone - Wannsee (transit)</a>,
+insert an additional stop and don't make any stop along
+the track inside the DDR.<br>
+<em>·</em> Connect the cities of <a href="(1013,9)">Warsaw</a> and
+<a href="(1008,1010)">Prague</a> only with East-Berlin.<br>
+<em>·</em> The airports of <a href="(510,1014)">Rome</a> and
+<a href="(510,9)">Oslo</a> may have only one connection.<br>
+<em>·</em> Cargo ships can cross the border.<br>
+<em>·</em> The players NVA and graffiti will be eliminated a few month after the revolution.<br>

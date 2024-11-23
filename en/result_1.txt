@@ -1,0 +1,14 @@
+<em>part one</em><br>
+<br>
+The free newspapers of West-Berlin reported: In {date} there have been
+exactly <em>{protesters}</em> citizen on the streets raising their
+voices <it>"We are the people! We are one nation!"</it>.<br>
+<br>
+The national newspaper from East-Berlin reported only that the Stasi has
+arrested {stasi_count} 'enemies of the state' from a tiny demonstration.
+These person will probably demonstate never again.<br>
+<br>
+{transit}<br>
+<br>
+This part of the scenario is up to {result}% complete.<br>
+<br>

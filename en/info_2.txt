@@ -1,0 +1,27 @@
+<em>part two</em><br>
+<br>
+The wall is open! Unless you have earned enough money you can
+tear down the wall. The Roadblocks at the stations are property
+of Simutrans-Player (that's you), remove them. You can also remove
+the wall and the fence around the site <a href="(760,438)">Stasi</a>.
+Note: An element of the wall/fence can cost up to 100,000 $ and you
+will need more than 200 million $ only to remove the main parts
+of the wall.<br>
+<br>
+After the great reunion celebrations the city government recognized
+that they need more money. Who would have guessed, a new sales tax
+of {salestax}% is the solution. If the launch of the tax does not
+take place on time, the new tax rate probably increase a little.<br>
+<br>
+The citizen of Berlin like to use the new freedom. So give them
+therfore a good puplic service at a view places <a href="goal">places</a>.
+Don't forget to connect the subnets from East- and West-Berlin to a
+well working puplic transportation network. In addition, make at
+<a href="(525,473)">Berlin HBF (future)</a> the new central train station.<br>
+<br>
+Build up to the mark <a href="(529,490)">Simutrans headquarter</a> your
+big companies Headquarter. Since the government of germany has decided
+to move to Berlin, you can build new government buildings
+and characterizing them with a marker. At Potsdamer Platz you can
+build also new huge structures. Please buy all newly built buildings
+to save them.<br>

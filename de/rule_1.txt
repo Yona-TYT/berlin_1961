@@ -1,0 +1,21 @@
+<em>Teil 1</em><br>
+<br>
+Die hilfsbereiten Bürger von Berlin haben Ihnen bereits einige
+der wichtigsten Regeln in der sich so schnell ändernden
+Welt aufgeschrieben:<br>
+<br>
+<em>·</em> Queren Sie niemals die Mauer, egal mit welchem Bauwerkzeug.<br>
+<em>·</em> Züge aus den Städten <a href="(9,9)">Hamburg</a> und
+<a href="(10,1010)">Frankfurt</a> dürfen nur in West-Berlin halten.
+Züge die durch die Transit Station
+<a href="(109,413)">Zone - Spandau (transit)</a> oder
+<a href="(106,882)">Zone - Wannsee (transit)</a> fahren,
+müssen dort zwingend einen Stop einlegen und dürfen nicht
+innerhalb der DDR einen Stop haben.<br>
+<em>·</em> Verbinden Sie die Städte <a href="(1013,9)">Warschau</a> and
+<a href="(1008,1010)">Prag</a> nur mit Ost-Berlin.<br>
+<em>·</em> Die Flughäfen <a href="(510,1014)">Rom</a> und
+<a href="(510,9)">Oslo</a> dürfen jeweils nur eine Verindung haben.<br>
+<em>·</em> Frachtschiffe dürfen die Grenze passieren.<br>
+<em>·</em> Die Spieler NVA und graffiti werden erst einige Monate nach
+der Revolution aus dem Spiel entfernt.<br>

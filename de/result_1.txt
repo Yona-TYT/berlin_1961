@@ -1,0 +1,16 @@
+<em>Teil 1</em><br>
+<br>
+Die freien Zeitungen von West-Berlin berichten: Im {date} waren
+genau <em>{protesters}</em> Bürger auf den Straßen Berlins. Während
+der friedlichen Demonstration riefen sie immer lauter
+<it>"Wir sind das Volk! Wir sind ein Volk!"</it>.<br>
+<br>
+Die nationale Volkszeitung von Ost-Berlin schrieb in einem kurzen Artikel,
+das die aufmerksamen Mitarbeiter des Ministerium für Staatssicherheit
+{stasi_count} Staatsfeinde bei einer kleinen Demonstration festgenommen haben.
+Diese Person werden vorraussichtlich nie wieder demonstrieren.<br>
+<br>
+{transit}<br>
+<br>
+Dieser Teil des Szenario ist zu {result}% komplett.<br>
+<br>
